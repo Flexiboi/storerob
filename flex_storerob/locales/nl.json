@@ -1,0 +1,29 @@
+{
+   "error": {
+      "exploit_kick": "Probeerde te stelen op een niet legitieme wijze..",
+      "missing_item": "Je hebt het juist spul niet om dit te doen..",
+      "nopolice": "Shit de beveileging staat te hoog nu..."
+   },
+   "success": {
+   },
+   "progress": {
+      "rob_register": "Kassa plunderen..",
+      "steal_register": "Kassa loskoppelen..",
+      "rob_shelf": "Spullen stelen.."
+   },
+   "target": {
+      "rob_register": "Kassa openbreken..",
+      "steal_register": "Kassa mee nemen..",
+      "rob_shelf": "Stelen..",
+      "open_safe": "Kluis openen.."
+   },
+   "discord": {
+      "started_shelf_stealing": "%s starte met het stelen van een schap",
+      "finished_shelf_stealing": "%s heeft %s x %s gestolen",
+      "finished_steal_stealing": "%s heeft een kassa mee genomen",
+      "finished_open_register": "%s heeft %s x %s uit de kassa gekregen",
+      "started_saferob": "%s probeert de kluis te openen",
+      "newsafecode": "Nieuwe kluiscode: %s",
+      "finished_saferob": "%s heeftg %s x %s uit de kluis gekregen"
+   }
+}
