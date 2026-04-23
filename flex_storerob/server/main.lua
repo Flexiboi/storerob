@@ -1,10 +1,10 @@
 local registers, stolenRegisters, stolenShelfs, safes = {}, {}, {}, {}
 local WEBHOOK_URL = {
-    ['DEFAULT'] = 'https://discord.com/api/webhooks/1450850036375224411/68XuvlBb4ttxxfIEUPETtm_eDuQsGL6lVZ56r6YZmw--hdtaLml2J-SQ6VG9M9kIfOmC',
-    ['SHELF'] = 'https://discord.com/api/webhooks/1450850036375224411/68XuvlBb4ttxxfIEUPETtm_eDuQsGL6lVZ56r6YZmw--hdtaLml2J-SQ6VG9M9kIfOmC',
-    ['STEAL'] = 'https://discord.com/api/webhooks/1450850136279224443/O91ADzM5-9_qZPJ22YZvYiyu6pvayglkR3adM7IUzAKeJhdjKtRD9_AbsWpqM_zkKQVH',
-    ['REGISTER'] = 'https://discord.com/api/webhooks/1450850200431104101/gYnhVdwBynTRfPWNe_3RffziSRuAvdeIbLvWQOAMB6PTMp0VbHaoO_EJZ_C9xBXJ27CT',
-    ['SAFE'] = 'https://discord.com/api/webhooks/1450850268991459492/zT_hn6JWp3yzpLm4_7Ps2SD1wYNSNbZYI-oLOFz_rsrgeg37gj6QsCuDsFzp8r_NnTrW',
+    ['DEFAULT'] = '',
+    ['SHELF'] = '',
+    ['STEAL'] = '',
+    ['REGISTER'] = '',
+    ['SAFE'] = '',
 }
 
 local function SendWebhook(title, description)
